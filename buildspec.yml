@@ -12,4 +12,6 @@ artifacts:
     - manifest.json
     - asset-manifest.json
     - ./*.png
-    - static/**/*
+    - static/css/*.css
+    - static/js/*.js
+    - static/media/*
