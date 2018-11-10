@@ -9,5 +9,7 @@ artifacts:
     - index.html
     - favicon.ico
     - Rashi-Resume.pdf
-    - styles/*
-    - images/*      
+    - manifest.json
+    - asset-manifest.json
+    - ./*.png
+    - static/* 
