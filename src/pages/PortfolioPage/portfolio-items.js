@@ -115,12 +115,12 @@ export default [
     )
   },
   {
-    name: "Banners and E-Mailers",
+    name: "Banners and Newsletters",
     render: (
       <div className="portfolio-item">
-        <div className="portfolio-item__title">Banners and E-mailers</div>
+        <div className="portfolio-item__title">Banners and Newsletters</div>
         <div className="portfolio-item__desc">
-          Banners and Emailers for e-commerce
+          Banners and Newsletters for e-commerce
         </div>
         <div className="portfolio-item__icon">
           <i className="fas fa-bullhorn" />
@@ -138,7 +138,7 @@ export default [
             rel="noopener noreferrer"
             href="https://www.behance.net/gallery/30593351/EMAILERS"
           >
-            Emailers
+            Newsletters
           </a>
         </div>
       </div>

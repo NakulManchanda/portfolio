@@ -29,7 +29,7 @@ const AboutPage = (props, context) => {
               love everything design.
             </p>
             <p>
-              My interests lay in designing new creatives in the form of
+              My interests lay in designing new creatives in the form of{" "}
               <span className="highlight">
                 engaging posts, brochures, web mockups, and logos
               </span>
