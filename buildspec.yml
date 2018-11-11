@@ -6,12 +6,6 @@ phases:
       - echo Nothing to do yet
 artifacts:
   files:
-    - index.html
-    - favicon.ico
-    - Rashi-Resume.pdf
-    - manifest.json
-    - asset-manifest.json
-    - ./*.png
-    - static/css/*.css
-    - static/js/*.js
-    - static/media/*
+    - static/**/*
+  exclude_patterns:
+    - static/**/*.map
