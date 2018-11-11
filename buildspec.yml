@@ -6,6 +6,6 @@ phases:
       - echo Nothing to do yet
 artifacts:
   files:
-    - static/**/*
+    - build/**/*
   exclude_patterns:
-    - static/**/*.map
+    - build/**/*.map
